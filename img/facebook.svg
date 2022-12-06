@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>facebook</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAMxQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////QQSP0wAAAER0Uk5TACGt6v/w+OCZEyNWcFEnxxw09s+L1ygG03oBuEu2gmKa96dADuMLqBDRCALQ+v3NB90UwuhYPS0s9CBPiNbpaPXlFspElRbVAAAA+UlEQVR4nNXTV1PDMAwHcNmRnQa6oIzSQRczi1AIXWGV7/+dUFwe0kQ+7nhDL9adf5dYuvsDCOmgpRwpAIRC7VpKoxIgseaBpbwaSnC09Z6EdgBd+z2Aixw4OKxTNWyg2fqZoc2Do2PsnNAHTvGMBeddvOjlTd8CBjjcNTZwiSOAMS1pgk0WTHEGV+aN1zcsuCVwh/e+7wf8mDsQ8ouaKqUiA2LqHpIKmKDW+nEOvSc6Y+aR+rnwL27M34FK0/SFmgWdIQOUmX8Jyco06wrYZFn2aqZ4o+79D3v4x6AUnH2QB6cUvT1golcK74cBUSG85fh/biH4KsT/G4U2GycktEu7AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

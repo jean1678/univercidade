@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>youtube</title>
+	<defs>
+		<image  width="32" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAMAAACsjQ8GAAAAAXNSR0IB2cksfwAAAQtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v0STIwAAAFl0Uk5TAAIgMw6G6P+FDR/Y+cOq1x4G0q8ZsNBruwO9acUxCwTw7ubeSO/fsxzs4WUB1AqI/MQrL8n6CHHz0wV39NU9kRKZ/r8q7Vn9DzI0wmq8vmixGhuyz9aE54O8bVrlAAAA/UlEQVR4nH2S2VLCQBBFb0C5JhIhiGgUIUTFXYwaFVxxAfd9+/8vcdBCTKoz57H7zExXzwUURiotkDLwy9BwhiKZEbPXt0aZtccE7CxzecApcLwIkeIESw4mOeXKfcCd5gzKnP0rVKoxI00bXm1wwJ+bjxneAlgfXKAmX1yKCHVGheUV1lbXNML6RmOTwZZGALZ3GDZ2NQLcvX02qxqhdXDII41w3GR4Ukl84rR9xvOL5CG9S/od3R7YbV8hJqhl9jEKwTWiqG7AePEfN7zFHe+Tv/uBj3BKfHqW+y+vfGupyOUYBlLkyiHf8z3R/PiUQ+t/mf3xLSn21k/svwEB2R7jkDC69gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="4"/>
+</svg>

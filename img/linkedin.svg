@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>linkedin</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAV9QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////KD66oAAAAHV0Uk5TAB9QOwgBjv7/2zJw96jV4Q5Dw1Xy+gmDcsd0AhrcR0bm+8JM1/SdEQ8DTYh9FAx3XSZfem049nZeycjxYKGAaLDde7LpZOibhwZY+JAKPO01XL2pyosQ2kJx/SdmhYEdQLPGMayW7ynTLxi4xOXublYNLQRPxt6HKAAAAUZJREFUeJzlkndTAjEQxaMe8ETEgqCChVNBsTdQ8aRYsBew9woWFBT9/uMmJ44zd9EP4Ptj7+3tL5Nks4yxisoqhcllsdqAarscqIGj1om6eingRANjjXBJgSa3h7FmtEiBVnh9be3okAKdgF9Fl09+yu4eBIK98jqpL/Rr+S/1D3ANDpEdHhF+lI2NT0yGy92NQGiK7LRubTPi447q7cWspmlziJGNI0E+SZ0PeucXFuFYEkBKlGLfcVldWRVL19axYQYom+XjbW1jxwT4oTQypkB4N7m3f0AmdIgjE+D4hF/Cf0r2DOdGwK5GLi6vrnFjYewWd0bAiixFTw739Ah4MAIZPPKNskhTzDmMQBRPHIghTjGFfwMEaMryX8Az+ZcykKckAFbQ56xI/151q75xoKgnBVbSuFx8RN8/hA+LN1dcIil9Avb7TLZDE7NmAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

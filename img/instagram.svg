@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>instagram</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAIdQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////EldLgwAAAC10Uk5TAE6KvfD/Hrnv4FHx0Fok/IEFMKLZeQwC3v1ByjkPRnquE/dd7n8UsqRr1zcJs0Gx8QAAARhJREFUeJyVU2eXgjAQXMoISAlYzkZTUJr///cdARTMi5d38ylvZ5JsmSXi0HTDxAdMQ9fohZXVR2znA3YfslYjv3bh+QEJCHwP7nq477IwEmmOKGQuf8NCKGE3293+J4TV5wdPcv9wxAn7yINGOnzJA2dc4tOOfOhkYM4vSbM8z9KE6HpjF2wpgEGm/eaLcuxBWRDdbzhuiGyT4Ez0owKrmzhuaobqQdfzoQ86mAUV2m48dS2qKbgQFGifr7+eLQpRkJSsm4voWJkIghT1sswaqSDI0CwFDTJBkCNeCmLk/xUov1AmqSxT2Sh1q8VhvQVfxj2hH7fcMBO4YeSWm8AtJzftiMG0X2w/YLC9enGUq6deXvpz/X8BnqgaBMjanCkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
